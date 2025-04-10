@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/master-yi-gif-5625759812446075878"  />
+<img align="right" height="150" src="[https://tenor.com/pt-BR/view/master-yi-gif-5625759812446075878](https://pin.it/1Xa2yDW0I)"  />
 
 ###
 
