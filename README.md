@@ -29,7 +29,7 @@
 
 Sou graduando em **Sistemas de Informação na [UNICAMP](https://www.unicamp.br/)** e um perfil *builder*: gosto de transformar problemas reais em software funcional e escalável, unindo **Full Stack** com a vanguarda de **Web3, Blockchain e IA**.
 
-- 🚀 **Fundador da [Reppy](https://github.com/marcelomeloni)**, plataforma SaaS para o mercado de moradia estudantil. Cuido de toda a arquitetura e do desenvolvimento, com interfaces responsivas na web e no mobile.
+- 🚀 **Fundador da [Reppy](https://reppy.app.br)**
 - ⛓️ **Web3 na prática:** dApps e Smart Contracts com **Move (Sui)** e **Rust/Anchor (Solana)**, com experiência em tokens e DeFi.
 - 🤖 **Explorando IA** para criar produtos mais inteligentes e automatizados.
 - 🌎 **Inglês fluente** (certificado pelo CCAA), comunicativo e proativo.
